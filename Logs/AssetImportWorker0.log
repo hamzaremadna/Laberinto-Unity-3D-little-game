@@ -1,0 +1,166 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/mac/Desktop/Done/HamzaRemadna_GyM_OpenGL_Laberinto/Laberinto
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59504
+Successfully changed project path to: /Users/mac/Desktop/Done/HamzaRemadna_GyM_OpenGL_Laberinto/Laberinto
+/Users/mac/Desktop/Done/HamzaRemadna_GyM_OpenGL_Laberinto/Laberinto
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/mac/Desktop/Done/HamzaRemadna_GyM_OpenGL_Laberinto/Laberinto/Assets
+GfxDevice: creating device client; threaded=0
+2023-02-23 13:32:49.399 Unity[21227:1115174] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2023-02-23 13:32:49.399 Unity[21227:1115174] Metal devices available: 1
+2023-02-23 13:32:49.399 Unity[21227:1115174] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2023-02-23 13:32:49.400 Unity[21227:1115174] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56227
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000675 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 34.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.210 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000543 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.466 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.6 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1541.
+Total: 4.847322 ms (FindLiveObjects: 0.420137 ms CreateObjectMapping: 0.147993 ms MarkObjects: 3.503174 ms  DeleteObjects: 0.773222 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Prefabs/diamond.prefab
+  artifactKey: Guid(18fe6540efc24451db4e1ae2f64b3d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/diamond.prefab using Guid(18fe6540efc24451db4e1ae2f64b3d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98ffe8163868e96ef4633e6a92e89a9a') in 1.213652 seconds
+  Import took 1.216965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Prefabs/trophy.prefab
+  artifactKey: Guid(d799408415efb40f0acf054eb80d295c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/trophy.prefab using Guid(d799408415efb40f0acf054eb80d295c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8281e1177094be4314868769b9a871') in 0.027955 seconds
+  Import took 0.031061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Prefabs/Player Sphere.prefab
+  artifactKey: Guid(918d4e537f35e42b998af592e5b5cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player Sphere.prefab using Guid(918d4e537f35e42b998af592e5b5cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e0b6a9adb9f1bbdb5b6a8e8070eadeb') in 0.296466 seconds
+  Import took 0.299059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(baa1ef4ae979540adaf3b1de6eb2c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(baa1ef4ae979540adaf3b1de6eb2c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddb29f0cd1458e8e43519a7a2704ebc') in 0.002120 seconds
+  Import took 0.005545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Prefabs/Cube.prefab
+  artifactKey: Guid(140a75fb2f91e45b494c975357ee13ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cube.prefab using Guid(140a75fb2f91e45b494c975357ee13ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b4f862ad23ff654eedd5098a78d83c0') in 0.619123 seconds
+  Import took 0.621910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(baa1ef4ae979540adaf3b1de6eb2c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(baa1ef4ae979540adaf3b1de6eb2c262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddb29f0cd1458e8e43519a7a2704ebc') in 0.001836 seconds
+  Import took 0.004749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Prefabs/coin.prefab
+  artifactKey: Guid(bb5aa90f8f09149b290ce00ebcec511d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/coin.prefab using Guid(bb5aa90f8f09149b290ce00ebcec511d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f868040022d2898f6e66a2fc31b506b') in 0.727657 seconds
+  Import took 0.730971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.599898 seconds.
+  path: Assets/Scenes/Stage1.unity
+  artifactKey: Guid(b81c874c194264424b6514452b1f64bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage1.unity using Guid(b81c874c194264424b6514452b1f64bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310d4e23bb817c2341c7548f02fed322') in 0.002657 seconds
+  Import took 0.005687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.166201 seconds.
+  path: Assets/Scenes/Stage2.unity
+  artifactKey: Guid(595e227556a005f47832b0ea1e22fab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage2.unity using Guid(595e227556a005f47832b0ea1e22fab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '566e372e30c93c46c52888c60dc3cfdd') in 0.004326 seconds
+  Import took 0.009965 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.5 MB.
+System memory in use after: 125.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 2.563812 ms (FindLiveObjects: 0.307218 ms CreateObjectMapping: 0.060540 ms MarkObjects: 1.793108 ms  DeleteObjects: 0.400530 ms)
+
